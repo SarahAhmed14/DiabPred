@@ -1,7 +1,7 @@
 # DiabPred
 Here is a link to a recording to the demo of my app:
 
-https://www.loom.com/share/8215c73b618841f3a504666eb27225b6
+https://www.youtube.com/watch?v=HWQBjXCYpvY
 
 I have made a diabetes prediction app called DiabPred which predicts if the person has diabetes and gives resources for guidance as well as helping the person to find their nearest GP.
 
